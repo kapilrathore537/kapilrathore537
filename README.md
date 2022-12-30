@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kapil Rathore 
+- 👀 I’m interested in  backend Java developer 
+- 🌱 I’m currently learning jsp and spring boot 
+- 💞️ I’m looking to collaborate on  good company 
+- 📫 
